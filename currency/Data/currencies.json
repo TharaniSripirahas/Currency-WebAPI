@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "cefebeaa-4500-437c-b723-658efd011494",
+    "CurrencyName": "Sri Lanka Rupee",
+    "CurrencyCode": "LKR",
+    "ConversionRate": 0,
+    "CurrentValueInUSD": 0,
+    "Country": "SriLanka",
+    "LastUpdated": "2025-05-05T17:08:50.1969782Z",
+    "Symbol": "LKR"
+  },
+  {
+    "Id": "a76a6727-0d25-40be-b6ab-d465785c11a4",
+    "CurrencyName": "Dollar",
+    "CurrencyCode": "USD",
+    "ConversionRate": 0,
+    "CurrentValueInUSD": 0,
+    "Country": "USA",
+    "LastUpdated": "2025-05-05T17:34:56.5634784Z",
+    "Symbol": "$"
+  }
+]
